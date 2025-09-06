@@ -1,0 +1,36 @@
+{
+  "name": "in-users-shoes-game",
+  "version": "1.0.0",
+  "description": "A challenging puzzle game where you catch falling shoes to complete pairs and score points",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc -p .",
+    "watch": "tsc -p . --watch",
+    "dev": "tsc -p . --watch",
+    "clean": "rm -rf js/*.js js/*.map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thierry-G/In-user-s-shoes---The-game.git"
+  },
+  "keywords": [
+    "game",
+    "puzzle",
+    "typescript",
+    "canvas",
+    "mobile",
+    "pwa",
+    "shoes",
+    "matching"
+  ],
+  "author": "Thierry-G",
+  "license": "MIT",
+  "homepage": "https://github.com/Thierry-G/In-user-s-shoes---The-game",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

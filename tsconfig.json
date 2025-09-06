@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "es2015",
+    "outDir": "./js",
+    "rootDir": "./ts",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true,
+    "lib": ["dom", "es6", "dom.iterable", "scripthost"],
+    "moduleResolution": "node"
+  },
+  "include": ["ts/**/*.ts"],
+  "exclude": ["ts/TouchFix.ts", "ts/*.notes", "ts/backups/**/*", "ts/Board.ts.backup", "ts/Board.ts.bak", "ts/Board.ts.broken", "ts/Board.ts.corrupted", "ts/Board copy.ts"],
+  "compileOnSave": true
+}
