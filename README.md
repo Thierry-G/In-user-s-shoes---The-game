@@ -84,6 +84,15 @@ Simply open `index.html` in your browser or visit the live demo!
 ├── index.html          # Main game page
 ├── manifest.webmanifest # PWA manifest
 ├── sw.js               # Service worker for offline support
+├── js/                 # Javascript compiled source files
+│   ├── theGame.js      # Main game logic
+│   ├── Board.js        # Game board and scoring
+│   ├── Player.js       # Player component
+│   ├── Shoes.js        # Shoe sprites and rendering
+│   ├── Levels.js       # Level configurations
+│   ├── Ui.js           # UI management
+│   ├── UIEffects.js    # Visual effects
+│   └── GameTypes.js    # Type definitions
 ├── ts/                 # TypeScript source files
 │   ├── theGame.ts      # Main game logic
 │   ├── Board.ts        # Game board and scoring
