@@ -6,8 +6,8 @@ yarn-error.log*
 package-lock.json
 
 # Build outputs (compiled JavaScript)
-js/
-*.js.map
+#js/
+#*.js.map
 tsconfig.tsbuildinfo
 
 # Development and backup files
