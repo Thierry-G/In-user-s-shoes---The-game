@@ -24,7 +24,7 @@
     "matching"
   ],
   "author": "Thierry-G",
-  "license": "MIT",
+  "license": "CC-BY-NC-4.0",
   "homepage": "https://github.com/Thierry-G/In-user-s-shoes---The-game",
   "devDependencies": {
     "@types/node": "^24.3.0",

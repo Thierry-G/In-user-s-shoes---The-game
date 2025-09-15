@@ -153,7 +153,16 @@ The project uses TypeScript with the following configuration:
 
 ## 📝 License
 
-This project is open source. Feel free to contribute and improve the game!
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+🆓 **Free for non-commercial use** - You can:
+- Play, share, and modify the game for personal use
+- Use it for educational purposes
+- Create derivative works for non-commercial purposes
+
+💼 **Commercial use requires permission** - Contact the author for commercial licensing.
+
+For the full license terms, see the [LICENSE](LICENSE) file or visit [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## 🤝 Contributing
 
